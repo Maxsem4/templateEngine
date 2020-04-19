@@ -1,6 +1,6 @@
 # Template Engine - Employee Summary
 
-![GitHub issues](https://img.shields.io/github/issues-raw/Maxsem4/readmeGenerator) ![Contributors](https://img.shields.io/github/contributors/Maxsem4/readmeGenerator) ![Code-size](https://img.shields.io/github/languages/code-size/Maxsem4/readmeGenerator) ![Last Commit](https://img.shields.io/github/last-commit/Maxsem4/readmeGenerator)
+![GitHub issues](https://img.shields.io/github/issues-raw/Maxsem4/templateEngine) ![Contributors](https://img.shields.io/github/contributors/Maxsem4/templateEngine) ![Code-size](https://img.shields.io/github/languages/code-size/Maxsem4/templateEngine) ![Last Commit](https://img.shields.io/github/last-commit/Maxsem4/templateEngine)
 
 ## Description
 
