@@ -9,7 +9,7 @@ templateEngine in a command line app that creates a readme doc from user input.
 ## 🚀 How to Use?
 
 - Once the repository is cloned run `npm install` to install the dependencies
-- The application will be invoked by running the following command in the terminal: `node index.js`
+- The application will be invoked by running the following command in the terminal: `node app.js`
 
 ## 🤝 Contributing
 
